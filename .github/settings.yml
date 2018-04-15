@@ -2,5 +2,4 @@
 repository:
   name: sample-civictech-app
   description: :balloon: Some nice one-liner description
-  homepage: https://sample-civictech-app.herokuapp.com/
-  topics: civic-tech, civictech, civictechto, toronto, ontario, canada
+  has_issues: false
