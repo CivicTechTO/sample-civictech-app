@@ -48,10 +48,10 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: Type: Bug
+  - name: 'Type: Bug'
     # include the old name to rename an existing label
     oldname: bug
-  - name: Type: Feature
+  - name: 'Type: Feature'
     oldname: enhancement
   - name: first-timers-only
   - name: fto-candidate
