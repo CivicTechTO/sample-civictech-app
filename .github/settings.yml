@@ -2,3 +2,4 @@ repository:
   name: sample-civictech-app
   description: :balloon: Some nice one-liner description
   has_issues: false
+  has_projects: false
