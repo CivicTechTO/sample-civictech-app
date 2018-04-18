@@ -1,4 +1,4 @@
-# CodeAcross.ca
+# Sample CivicTech App
 
 <!-- A short one-liner description of your app -->
 
