@@ -89,6 +89,4 @@ branches:
         # Blocks merge until code owners have reviewed.
         require_code_owner_reviews: true
       # Required. Restrict who can push to this branch. Team and user restrictions are only available for organization-owned repositories. Set to null to disable.
-      restrictions:
-        users: []
-        teams: []
+      restrictions: null
