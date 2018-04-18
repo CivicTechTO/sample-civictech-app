@@ -2,10 +2,15 @@
 
 <!-- A short one-liner description of your app -->
 
-Jekyll-based website for [CodeAcross.ca](codeacross.ca), hosted on
-GitHub Pages.
+{{cookiecutter.one_liner}}
 
 <!-- A longer paragraph description -->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus
+nunc, cursus ut ultricies vel, fermentum et enim. Donec quis arcu
+ornare, placerat tortor tempus, efficitur libero. Integer condimentum
+aliquam neque, a venenatis enim hendrerit condimentum. Cras ut fringilla
+justo. Maecenas a lectus nec justo vestibulum vulputate ac quis risus.
 
 ## Technologies Used
 
